@@ -16,7 +16,7 @@ Fördjupade kunskaper i Java:
 - Introduktion till UML (Unified Modelling Language)
 
 Programmeringsspråk: <b>Java</b><br>
-Betygsskala: <b>3/4/5</b><br>
-Laborationer: <b>5</b><br>
-Examination: <b>5</b><br>
-Slutbetyg: <b>5</b>
+Betygsskala: <b>A/B/C/D/E/F</b><br>
+Laborationer: <b>A</b><br>
+Examination: <b>A</b><br>
+Slutbetyg: <b>A</b>
